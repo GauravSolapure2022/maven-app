@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Codetech - Software Training Institute <font></h1>
 
 <a href="https://codetechcorporatetpc.com/">Click Here To See Codetech Training Center</a>
 
