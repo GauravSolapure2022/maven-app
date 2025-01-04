@@ -21,7 +21,7 @@ spec:
       image: gaurav/mavenwebapp
       imagePullPolicy: Always
       ports:
-      - containerPort: 8084
+      - containerPort: 8080
 ---
 apiVersion: v1
 kind: Service
@@ -33,5 +33,5 @@ spec:
    app: mavenwebapp
   ports:
    - port: 80
-     targetPort: 8084
+     targetPort: 8080
 ...
